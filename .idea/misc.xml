@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/xuann/AndroidStudioProjects/CodingTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.202" />
         <entry key="..\:/Users/xuann/AndroidStudioProjects/CodingTest/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/xuann/AndroidStudioProjects/CodingTest/app/src/main/res/layout/fragment_inbox.xml" value="0.109375" />
+        <entry key="..\:/Users/xuann/AndroidStudioProjects/CodingTest/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/xuann/AndroidStudioProjects/CodingTest/app/src/main/res/layout/inbox_cards.xml" value="0.1" />
         <entry key="..\:/Users/xuann/AndroidStudioProjects/CodingTest/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
